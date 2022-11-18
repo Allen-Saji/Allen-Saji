@@ -4,7 +4,7 @@
 <!-- <a href="#"><img align="right" width="30%" height="auto" src="Assets/Gif.gif" height="30px"/></a> -->
 ## 🙋‍♂️ About Me
 
-- **🔭 Currently interning at <a href="https://kochimetro.org/">Kochi Metro Rail Ltd</a>**
+- **🔭 Currently working as an intern at <a href="https://kochimetro.org/">Kochi Metro Rail Ltd</a>**
 
 - **🌱 Currently learning Solidity**
 
@@ -39,7 +39,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/allen-saji-839932182/"><img src="https://img.shields.io/badge/-allen-saji-839932182-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/AllenSaji12"><img src="https://img.shields.io/badge/@allen-saji-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/allen_saji01/"><img src="https://img.shields.io/badge/-@allen-saji-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/allen-saji-839932182/"><img src="https://img.shields.io/badge/-allensaji-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/AllenSaji12"><img src="https://img.shields.io/badge/@allensaji-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/allen_saji01/"><img src="https://img.shields.io/badge/-@allensaji-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
