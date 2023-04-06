@@ -4,8 +4,6 @@
 <!-- <a href="#"><img align="right" width="30%" height="auto" src="Assets/Gif.gif" height="30px"/></a> -->
 ## 🙋‍♂️ About Me
 
-- **🔭 Currently working as an intern at <a href="https://kochimetro.org/">Kochi Metro Rail Ltd</a>**
-
 - **🌱 Currently learning Solidity**
 
 - **📬 Reach out: Feel free to <a href="mailto:allensaji04@gmail.com">mail me</a><br>**
