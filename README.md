@@ -4,7 +4,7 @@
 <!-- <a href="#"><img align="right" width="30%" height="auto" src="Assets/Gif.gif" height="30px"/></a> -->
 ## 🙋‍♂️ About Me
 
-- **🌱 Currently exploring video analytics and AI **
+- **🌱 Currently learning Typescript X Next.js **
 
 - **📬 Reach out: Feel free to <a href="mailto:allensaji04@gmail.com">mail me</a><br>**
 
