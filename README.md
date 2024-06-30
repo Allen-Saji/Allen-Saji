@@ -3,8 +3,8 @@
 
 <!-- <a href="#"><img align="right" width="30%" height="auto" src="Assets/Gif.gif" height="30px"/></a> -->
 ## 🙋‍♂️ About Me
-
-- **🌱 Diving deeper into ethereum **
+- ** Enthusiast of coding and creativity, with a special fondness for cold coffee to fuel my projects. ☕💻✨ **
+- **🌱 I appreciate different perspectives on system designs **
 
 - **📬 Reach out: Feel free to <a href="mailto:allensaji04@gmail.com">mail me</a><br>**
 
