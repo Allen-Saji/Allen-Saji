@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"> I'm Allen</h1>
-<h6 align="center">Building NFTickets | Full Stack Blockchain Dev 👨‍💻, WBA (Turbin3) Fellow</h6><br>
+<h6 align="center">Backend Savvy Fullstack Dev 👨‍💻, WBA (Turbin3) Fellow</h6><br>
 
 <!-- <a href="#"><img align="right" width="30%" height="auto" src="Assets/Gif.gif" height="30px"/></a> -->
 ## 🙋‍♂️ About Me
