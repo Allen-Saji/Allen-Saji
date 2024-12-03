@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px"> I'm Allen</h1>
-<h6 align="center">Backend Savvy Fullstack Dev 👨‍💻, Building on Solana ⚡ ,WBA (Turbin3) Fellow</h6><br>
+<h6 align="center">Fullstack Blockchain Dev 👨‍💻, Building on Solana ⚡ ,WBA (Turbin3) Fellow</h6><br>
 
 <br/>
 
