@@ -1,14 +1,15 @@
 <div align="center">
 
-<!-- HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=14F195&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Allen+Saji;Full-stack+Solana+Engineer;Smart+Contract+Developer;Building+on-chain+%E2%9B%93" alt="Typing SVG" /></a>
+<!-- TYPING HEADER -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=14F195&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+I'm+Allen+Saji;Full-stack+Blockchain+Dev;Smart+Contract+Engineer;Building+on-chain+%E2%9B%93" alt="Typing SVG" /></a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Cardano-0133AD?style=for-the-badge&logo=cardano&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Anchor-2E303E?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br/><br/>
 
@@ -22,9 +23,9 @@
 
 ### `$ whoami`
 
-Fullstack Blockchain Developer specialising in the **Solana** ecosystem. I design and ship smart contracts, DeFi protocols, and full-stack dApps — from raw Rust programs to polished Next.js frontends.
+Fullstack blockchain developer building primarily on **Solana**, with experience shipping across **Ethereum** and **Cardano**. I design and build smart contracts, DeFi protocols, and full-stack dApps — from CU-optimised Rust programs to polished Next.js frontends.
 
-[Turbin3](https://www.turbin3.com/) cohort graduate — **Builders**, **Advanced Rust**, **Frontend**, and **Elites** programs.
+[Turbin3](https://turbin3.org/) cohort graduate — Builders, Advanced Rust, Frontend, and Elites programs.
 
 ```
  ⚡ Smart contracts in Rust & Anchor
@@ -35,70 +36,43 @@ Fullstack Blockchain Developer specialising in the **Solana** ecosystem. I desig
 
 ---
 
-### `$ tech_stack`
-
-<div align="center">
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=rust,ts,js,html,css&theme=dark" />
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,prisma&theme=dark" />
-
-**Infra & Services**
-
-<img src="https://skillicons.dev/icons?i=git,github,mongodb,firebase,vercel&theme=dark" />
-
-</div>
-
----
-
-### `$ featured_projects`
+### `$ experience`
 
 <table>
 <tr>
 <td width="50%">
 
-**🏴‍☠️ PirateCrew.Fun** — *Smart Contract Engineer*
+**🏴‍☠️ PirateCrew.Fun** `Mar '25 — Oct '25`
 <br/>
-NFT community platform with shared ownership, claim-based airdrops (<$1 for n accounts), and time-weighted staking with perma-lock.
-<br/>
+*Smart Contract Engineer*
+<br/><br/>
+Designed and shipped the smart contract for an NFT community platform — shared NFT ownership with staking rewards, a claim-based airdrop program (<$1 for n accounts), and time-weighted staking with perma-lock.
+<br/><br/>
 `Rust` `Anchor` `TypeScript`
 
 </td>
 <td width="50%">
 
-**🎫 NFTickets** — *Full-stack*
+**🏦 Reafino** `Jan '25 — Jul '25`
 <br/>
-Scalp-proof NFT ticketing with capped resales, artist royalties, a trustless secondary market, and artist token marketplace.
-<br/>
-`Next.js` `TypeScript` `Anchor`
-<br/>
-[→ Repo](https://github.com/Allen-Saji/nf-tickets)
+*Frontend Engineer*
+<br/><br/>
+Built the frontend and protocol integrations for a Cardano crowdfunding & RWA tokenization platform.
+<br/><br/>
+`Next.js` `TypeScript` `Firebase`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**💰 Fundraiser** — *Optimised Contracts*
+**📄 Ekarth Ventures** `Nov '24 — Jan '25`
 <br/>
-Fundraiser program implemented at three levels: Anchor → Native Rust → Unsafe Rust, demonstrating CU optimisation techniques.
-<br/>
-`Rust` `Unsafe Rust`
-<br/>
-[→ Repo](https://github.com/Allen-Saji/fundraiser)
-
-</td>
-<td width="50%">
-
-**🏦 Reafino** — *Frontend Engineer*
-<br/>
-Cardano crowdfunding & RWA tokenization platform — built the frontend and protocol integrations.
-<br/>
-`Next.js` `TypeScript` `Firebase`
+*Frontend Engineer*
+<br/><br/>
+Built a peer-to-peer invoice discounting platform where businesses list invoices to raise loans, with a secondary market for trading between investors.
+<br/><br/>
+`Next.js` `TypeScript`
 
 </td>
 </tr>
@@ -106,16 +80,68 @@ Cardano crowdfunding & RWA tokenization platform — built the frontend and prot
 
 ---
 
+### `$ projects`
+
+<table>
+<tr>
+<td width="50%">
+
+**🎫 NFTickets**
+<br/>
+Scalp-proof NFT ticketing with capped resales, artist royalties, a trustless secondary market, and artist token marketplace.
+<br/><br/>
+`Next.js` `TypeScript` `Anchor`
+<br/>
+[→ Repo](https://github.com/Allen-Saji/nf-tickets)
+
+</td>
+<td width="50%">
+
+**💰 Fundraiser**
+<br/>
+Fundraiser program implemented at three levels: Anchor → Native Rust → Unsafe Rust, demonstrating CU optimisation techniques.
+<br/><br/>
+`Rust` `Unsafe Rust`
+<br/>
+[→ Repo](https://github.com/Allen-Saji/fundraiser)
+
+</td>
+</tr>
+</table>
+
+---
+
+### `$ tech_stack`
+
+<div align="center">
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=rust,ts,js,solidity,html,css&theme=dark" />
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,prisma&theme=dark" />
+
+**Infra & Services**
+
+<img src="https://skillicons.dev/icons?i=git,github,mongodb,firebase,vercel,docker&theme=dark" />
+
+</div>
+
+---
+
 ### `$ github_stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allen-Saji&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=14F195&icon_color=14F195&text_color=c9d1d9&ring_color=14F195" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Allen-Saji&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=14F195&ring=14F195&fire=14F195&currStreakLabel=14F195" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Allen-Saji&theme=transparent&hide_border=true&ring=14F195&fire=14F195&currStreakLabel=14F195&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allen-Saji&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=14F195&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Allen-Saji&bg_color=0d1117&color=c9d1d9&line=14F195&point=14F195&area=true&area_color=14F195&hide_border=true" />
 
 </div>
 
