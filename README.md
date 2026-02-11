@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Cardano-0133AD?style=for-the-badge&logo=cardano&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Typescipt-2E303E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Anchor-2E303E?style=for-the-badge&logoColor=white" />
 
 <br/><br/>
 
@@ -73,6 +73,17 @@ Built the frontend and protocol integrations for a Cardano crowdfunding & RWA to
 Built a peer-to-peer invoice discounting platform where businesses list invoices to raise loans, with a secondary market for trading between investors.
 <br/><br/>
 `Next.js` `TypeScript`
+
+</td>
+<td width="50%">
+
+**🌙 TheMoonDevs** `Jul '24 — Aug '24`
+<br/>
+*Fullstack Engineer (Intern)*
+<br/><br/>
+Worked on the company portal — Google Drive-like directory system, data fetching optimisation, state management, and server-side actions.
+<br/><br/>
+`Next.js` `TypeScript` `MongoDB` `Prisma`
 
 </td>
 </tr>
@@ -148,6 +159,16 @@ Fundraiser program implemented at three levels: Anchor → Native Rust → Unsaf
 ---
 
 <div align="center">
+
+### `$ support`
+
+If you like my work and want to support what I'm building:
+
+**$ALLEN** on Solana
+<br/>
+`2hhZ41xm578VuKuwpeBHekUuLE4k4sANcUW53AN6BAGS`
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Allen-Saji&style=flat-square&color=14F195" />
 
