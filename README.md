@@ -14,7 +14,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/-Allen_Saji-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-saji-839932182/)
-[![X](https://img.shields.io/badge/-@SajiBhai011-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SajiBhai011)
+[![X](https://img.shields.io/badge/-@SajiBhai011-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mad_allen)
 [![Gmail](https://img.shields.io/badge/-allensaji04-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:allensaji04@gmail.com)
 
 </div>
