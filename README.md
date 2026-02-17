@@ -25,7 +25,7 @@
 
 Fullstack blockchain developer building primarily on **Solana**, with experience shipping across **Ethereum** and **Cardano**. I design and build smart contracts, DeFi protocols, and full-stack dApps — from CU-optimised Rust programs to polished Next.js frontends.
 
-[Turbin3](https://turbin3.org/) cohort graduate — Builders, Advanced Rust, Frontend, and Elites programs.
+[Turbin3](https://turbin3.org/) graduate — Builders, Advanced Rust, Frontend, and Elites programs.
 
 ```
  ⚡ Smart contracts in Rust & Anchor
@@ -84,37 +84,6 @@ Built a peer-to-peer invoice discounting platform where businesses list invoices
 Worked on the company portal — Google Drive-like directory system, data fetching optimisation, state management, and server-side actions.
 <br/><br/>
 `Next.js` `TypeScript` `MongoDB` `Prisma`
-
-</td>
-</tr>
-</table>
-
----
-
-### `$ projects`
-
-<table>
-<tr>
-<td width="50%">
-
-**🎫 NFTickets**
-<br/>
-Scalp-proof NFT ticketing with capped resales, artist royalties, a trustless secondary market, and artist token marketplace.
-<br/><br/>
-`Next.js` `TypeScript` `Anchor`
-<br/>
-[→ Repo](https://github.com/Allen-Saji/nf-tickets)
-
-</td>
-<td width="50%">
-
-**💰 Fundraiser**
-<br/>
-Fundraiser program implemented at three levels: Anchor → Native Rust → Unsafe Rust, demonstrating CU optimisation techniques.
-<br/><br/>
-`Rust` `Unsafe Rust`
-<br/>
-[→ Repo](https://github.com/Allen-Saji/fundraiser)
 
 </td>
 </tr>
