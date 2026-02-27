@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=14F195&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+I'm+Allen+Saji;Full-stack+Blockchain+Dev;Smart+Contract+Engineer;Building+on-chain+%E2%9B%93" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=14F195&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+I'm+Allen+Saji;Full-stack+Blockchain+Dev;Smart+Contract+Engineer" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -21,9 +21,9 @@
 
 ### `$ whoami`
 
-Fullstack blockchain developer building primarily on **Solana**, with experience shipping across **Ethereum** and **Cardano**. I design and build smart contracts, DeFi protocols, and full-stack dApps — from CU-optimised Rust programs to polished Next.js frontends.
+Fullstack blockchain developer building primarily on **Solana**, with experience shipping across **Ethereum** and **Cardano**. I write smart contracts, DeFi protocols, and full-stack dApps. CU-optimised Rust programs on one end, Next.js frontends on the other.
 
-[Turbin3](https://turbin3.org/) graduate — Builders, Advanced Rust, Frontend, and Elites programs.
+[Turbin3](https://turbin3.org/) graduate (Builders, Advanced Rust, Frontend, and Elites programs).
 
 ```
  ⚡ Smart contracts in Rust & Anchor
@@ -40,18 +40,18 @@ Fullstack blockchain developer building primarily on **Solana**, with experience
 <tr>
 <td width="50%">
 
-**🏴‍☠️ PirateCrew.Fun** `Mar '25 — Oct '25`
+**🏴‍☠️ PirateCrew.Fun** `Mar '25 – Oct '25`
 <br/>
 *Smart Contract Engineer*
 <br/><br/>
-Designed and shipped the smart contract for an NFT community platform — shared NFT ownership with staking rewards, a claim-based airdrop program (<$1 for n accounts), and time-weighted staking with perma-lock.
+Wrote the smart contract for an NFT community platform. Shared NFT ownership with staking rewards, a claim-based airdrop program (<$1 for n accounts), and time-weighted staking with perma-lock.
 <br/><br/>
 `Rust` `Anchor` `TypeScript`
 
 </td>
 <td width="50%">
 
-**🏦 Reafino** `Jan '25 — Jul '25`
+**🏦 Reafino** `Jan '25 – Jul '25`
 <br/>
 *Frontend Engineer*
 <br/><br/>
@@ -64,7 +64,7 @@ Built the frontend and protocol integrations for a Cardano crowdfunding & RWA to
 <tr>
 <td width="50%">
 
-**📄 Ekarth Ventures** `Nov '24 — Jan '25`
+**📄 Ekarth Ventures** `Nov '24 – Jan '25`
 <br/>
 *Frontend Engineer*
 <br/><br/>
@@ -73,39 +73,8 @@ Built a peer-to-peer invoice discounting platform where businesses list invoices
 `Next.js` `TypeScript`
 
 </td>
-<td width="50%">
-
-**🌙 TheMoonDevs** `Jul '24 — Aug '24`
-<br/>
-*Fullstack Engineer (Intern)*
-<br/><br/>
-Worked on the company portal — Google Drive-like directory system, data fetching optimisation, state management, and server-side actions.
-<br/><br/>
-`Next.js` `TypeScript` `MongoDB` `Prisma`
-
-</td>
 </tr>
 </table>
-
----
-
-### `$ tech_stack`
-
-<div align="center">
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=rust,ts,js,solidity,html,css&theme=dark" />
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,prisma&theme=dark" />
-
-**Infra & Services**
-
-<img src="https://skillicons.dev/icons?i=git,github,mongodb,firebase,vercel,docker&theme=dark" />
-
-</div>
 
 ---
 
@@ -129,7 +98,7 @@ Worked on the company portal — Google Drive-like directory system, data fetchi
 
 ### `$ support`
 
-If you like my work and want to support what I'm building:
+If you like my work and want to support what I build:
 
 **$ALLEN** on Solana
 <br/>
@@ -138,7 +107,5 @@ If you like my work and want to support what I'm building:
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Allen-Saji&style=flat-square&color=14F195" />
-
-*Building on-chain, one program at a time.*
 
 </div>
