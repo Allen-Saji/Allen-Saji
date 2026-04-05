@@ -96,16 +96,6 @@ Built a peer-to-peer invoice discounting platform where businesses list invoices
 
 <div align="center">
 
-### `$ support`
-
-If you like my work and want to support what I build:
-
-**$ALLEN** on Solana
-<br/>
-`2hhZ41xm578VuKuwpeBHekUuLE4k4sANcUW53AN6BAGS`
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Allen-Saji&style=flat-square&color=14F195" />
 
 </div>
