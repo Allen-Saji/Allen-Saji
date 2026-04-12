@@ -1,101 +1,70 @@
-<div align="center">
+### allen saji
 
-<!-- TYPING HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=14F195&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+I'm+Allen+Saji;Full-stack+Blockchain+Dev;Smart+Contract+Engineer" alt="Typing SVG" /></a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Cardano-0133AD?style=for-the-badge&logo=cardano&logoColor=white" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/-Allen_Saji-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allen-saji-839932182/)
-[![X](https://img.shields.io/badge/-@SajiBhai011-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SajiBhai011)
-[![Gmail](https://img.shields.io/badge/-allensaji04-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:allensaji04@gmail.com)
-
-</div>
+rust · typescript · solana · evm · agent infra
 
 ---
 
-### `$ whoami`
+### experience
 
-Fullstack blockchain developer building primarily on **Solana**, with experience shipping across **Ethereum** and **Cardano**. I write smart contracts, DeFi protocols, and full-stack dApps. CU-optimised Rust programs on one end, Next.js frontends on the other.
-
-[Turbin3](https://turbin3.org/) graduate (Builders, Advanced Rust, Frontend, and Elites programs).
-
-```
- ⚡ Smart contracts in Rust & Anchor
- ⚡ CU-optimised programs using native & unsafe Rust
- ⚡ Full-stack dApps with Next.js + TypeScript
- ⚡ NFTs, DeFi, staking, airdrop mechanisms
-```
+| Role | Company | Work | Stack |
+|------|---------|------|-------|
+| Smart Contract Engineer | **PirateCrew.Fun** | Shared NFT ownership, staking rewards, claim-based airdrop (<$1 for n accounts), time-weighted perma-lock staking | Rust, Anchor |
+| Frontend Engineer | **Reafino** | Cardano crowdfunding & RWA tokenization platform | Next.js, TypeScript, Firebase |
+| Frontend Engineer | **Ekarth Ventures** | P2P invoice discounting platform with secondary market for investors | Next.js, TypeScript |
+| Graduate | **Turbin3** | Elites, Advanced Rust, Advanced SVM, Accelerated Builders, Frontend | Rust, Solana |
 
 ---
 
-### `$ experience`
+### ai agents & tools
 
-<table>
-<tr>
-<td width="50%">
+| Project | Description | Tech |
+|---------|-------------|------|
+| [AgentLance](https://github.com/Allen-Saji/agentlance) | Talent network for specialized AI agents | Next.js, Anchor, A2A Protocol |
+| [Agent Bazaar](https://github.com/Allen-Saji/agent-bazaar) | x402 service bazaar + agent pipeline payments on Stellar | TypeScript, Stellar, x402 |
+| [Corvus](https://github.com/Allen-Saji/corvus) | Solana DeFi intelligence via Model Context Protocol | TypeScript, MCP, Solana |
+| [Delegate](https://github.com/Allen-Saji/delegate) | Safe execution layer for autonomous agents | Solidity, TypeScript |
+| [MemeLaunch](https://github.com/Allen-Saji/memeforge) | AI narrative arbitrage agent for Four.meme on BNB Chain | TypeScript, BNB Chain |
 
-**🏴‍☠️ PirateCrew.Fun** `Mar '25 – Oct '25`
-<br/>
-*Smart Contract Engineer*
-<br/><br/>
-Wrote the smart contract for an NFT community platform. Shared NFT ownership with staking rewards, a claim-based airdrop program (<$1 for n accounts), and time-weighted staking with perma-lock.
-<br/><br/>
-`Rust` `Anchor` `TypeScript`
+### dapps & onchain products
 
-</td>
-<td width="50%">
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Port Protocol](https://github.com/Allen-Saji/port-protocol) | Programmable authorization layer for Solana token transfers | Rust, Pinocchio, Shank, Codama |
+| [FairLend](https://github.com/Allen-Saji/fairlend-contract) | Reputation-based lending with dynamic risk parameters | Rust, Anchor, Solana |
+| [Pump or Rug](https://github.com/Allen-Saji/pump-or-rug-mobile) | Degen prediction game -- bet if a token pumps or rugs within the hour | React Native, Anchor, Solana |
+| [ClawBets](https://github.com/Allen-Saji/clawbets) | Prediction market for OpenClaw agents, built by an OpenClaw agent | Next.js, Anchor, Solana |
+| [DAO Radar](https://github.com/Allen-Saji/dao-radar) | Governance command center for Solana DAOs with AI-powered proposal intelligence | Next.js, SPL Governance, Solana |
+| [BagsStudio](https://github.com/Allen-Saji/bags-studio) | Social engagement layer for Bags tokens | Next.js, TypeScript, Solana |
+| [NF-Tickets](https://github.com/Allen-Saji/nf-tickets) | Scalp-proof ticketing with compressed NFTs | Next.js, Metaplex Core, Solana |
+| [Token Swap Escrow](https://github.com/Allen-Saji/Token-Swap-Escrow) | Trustless escrow-based token swap platform with Blinks | Next.js, Anchor, Solana |
+| [Sui Lotto](https://github.com/Allen-Saji/sui-lotto-contract) | On-chain lottery on Sui | Move, Sui |
 
-**🏦 Reafino** `Jan '25 – Jul '25`
-<br/>
-*Frontend Engineer*
-<br/><br/>
-Built the frontend and protocol integrations for a Cardano crowdfunding & RWA tokenization platform.
-<br/><br/>
-`Next.js` `TypeScript` `Firebase`
+### solana programs
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Fundraiser](https://github.com/Allen-Saji/fundraiser) | Fundraiser contract in 3 tiers: Anchor, native Rust, unsafe Rust | Rust, Anchor, Solana |
+| [Vault](https://github.com/Allen-Saji/Vault) | Vault program in 3 tiers: Anchor, native, optimised | Rust, Anchor, Solana |
+| [Whitelist Transfer Hook](https://github.com/Allen-Saji/whitelist-transfer-hook) | Token-2022 transfer hook with whitelist gating | Rust, Solana |
 
-**📄 Ekarth Ventures** `Nov '24 – Jan '25`
-<br/>
-*Frontend Engineer*
-<br/><br/>
-Built a peer-to-peer invoice discounting platform where businesses list invoices to raise loans, with a secondary market for trading between investors.
-<br/><br/>
-`Next.js` `TypeScript`
+### onchain games (magicblock)
 
-</td>
-</tr>
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Pixel Wars](https://github.com/Allen-Saji/pixel-wars) | r/place on Solana with AI agents -- MagicBlock Weekend Hack | TypeScript, Bolt, MagicBlock |
+| [JetClash Arena](https://github.com/Allen-Saji/jetclash-arena) | Fully on-chain 2D jetpack combat game | TypeScript, MagicBlock, Solana |
+| [Magic UNO](https://github.com/Allen-Saji/magic-uno) | On-chain UNO with ephemeral rollups, VRF shuffling, SOL wagers | TypeScript, MagicBlock, Solana |
 
----
+### zk & cross-chain
 
-### `$ github_stats`
+| Project | Description | Tech |
+|---------|-------------|------|
+| [ZKPass](https://github.com/Allen-Saji/zkpass) | ZK identity passport -- multi-attribute selective disclosure | Circom, Groth16, HashKey Chain |
 
-<div align="center">
+### other things
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Allen-Saji&theme=transparent&hide_border=true&ring=14F195&fire=14F195&currStreakLabel=14F195&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
-</a>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Allen-Saji&bg_color=0d1117&color=c9d1d9&line=14F195&point=14F195&area=true&area_color=14F195&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Allen-Saji&style=flat-square&color=14F195" />
-
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Wander AI](https://github.com/Allen-Saji/wander-ai) | Conversational AI trip planner with rich itineraries | Next.js, TypeScript |
+| [Wallet Provider](https://github.com/Allen-Saji/wallet-provider) | HD wallet provider -- send/receive ETH & SOL, Google auth | Next.js, TypeScript |
+| [FlowDesk](https://github.com/Allen-Saji/flowdesk) | Desktop productivity app | Svelte |
