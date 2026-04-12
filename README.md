@@ -46,6 +46,7 @@ rust · typescript · solana · evm · agent infra
 | [Fundraiser](https://github.com/Allen-Saji/fundraiser) | Fundraiser contract in 3 tiers: Anchor, native Rust, unsafe Rust | Rust, Anchor, Solana |
 | [Vault](https://github.com/Allen-Saji/Vault) | Vault program in 3 tiers: Anchor, native, optimised | Rust, Anchor, Solana |
 | [Whitelist Transfer Hook](https://github.com/Allen-Saji/whitelist-transfer-hook) | Token-2022 transfer hook with whitelist gating | Rust, Solana |
+| [Turbin3 Accel](https://github.com/solana-turbin3/Q1_26_Accel_Allen) | Programs built during Turbin3 Accelerated Builders cohort | Rust, Anchor, Solana |
 
 ### onchain games (magicblock)
 
