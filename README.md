@@ -68,3 +68,17 @@ rust · typescript · solana · evm · agent infra
 | [Wander AI](https://github.com/Allen-Saji/wander-ai) | Conversational AI trip planner with rich itineraries | Next.js, TypeScript |
 | [Wallet Provider](https://github.com/Allen-Saji/wallet-provider) | HD wallet provider -- send/receive ETH & SOL, Google auth | Next.js, TypeScript |
 | [FlowDesk](https://github.com/Allen-Saji/flowdesk) | Desktop productivity app | Svelte |
+
+---
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Allen-Saji&theme=transparent&hide_border=true&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Allen-Saji&bg_color=00000000&color=c9d1d9&line=c9d1d9&point=c9d1d9&area=true&area_color=c9d1d9&hide_border=true" />
+
+</div>
