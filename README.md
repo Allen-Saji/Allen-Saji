@@ -8,7 +8,7 @@ rust · typescript · solana · evm · agent infra
 
 | Role | Company | Work | Stack |
 |------|---------|------|-------|
-| Smart Contract Engineer | **PirateCrew.Fun** | Shared NFT ownership, staking rewards, claim-based airdrop (<$1 for n accounts), time-weighted perma-lock staking | Rust, Anchor |
+| Protocol Engineer | **PirateCrew.Fun** | Shared NFT ownership, staking rewards, claim-based airdrop (<$1 for n accounts), time-weighted perma-lock staking | Rust, Anchor, Metaplex |
 | Frontend Engineer | **Reafino** | Cardano crowdfunding & RWA tokenization platform | Next.js, TypeScript, Firebase |
 | Frontend Engineer | **Ekarth Ventures** | P2P invoice discounting platform with secondary market for investors | Next.js, TypeScript |
 | Graduate | **Turbin3** | Elites, Advanced Rust, Advanced SVM, Accelerated Builders, Frontend | Rust, Solana |
@@ -29,13 +29,13 @@ rust · typescript · solana · evm · agent infra
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Port Protocol](https://github.com/Allen-Saji/port-protocol) | Programmable authorization layer for Solana token transfers | Rust, Pinocchio, Shank, Codama |
+| [Port Protocol](https://github.com/Allen-Saji/port-protocol) | Programmable authorization layer for Solana token transfers | Rust, Pinocchio, Shank, Codama, TukTuk, Next.js |
 | [FairLend](https://github.com/Allen-Saji/fairlend-contract) | Reputation-based lending with dynamic risk parameters | Rust, Anchor, Solana |
 | [Pump or Rug](https://github.com/Allen-Saji/pump-or-rug-mobile) | Degen prediction game -- bet if a token pumps or rugs within the hour | React Native, Anchor, Solana |
 | [ClawBets](https://github.com/Allen-Saji/clawbets) | Prediction market for OpenClaw agents, built by an OpenClaw agent | Next.js, Anchor, Solana |
 | [DAO Radar](https://github.com/Allen-Saji/dao-radar) | Governance command center for Solana DAOs with AI-powered proposal intelligence | Next.js, SPL Governance, Solana |
 | [BagsStudio](https://github.com/Allen-Saji/bags-studio) | Social engagement layer for Bags tokens | Next.js, TypeScript, Solana |
-| [NF-Tickets](https://github.com/Allen-Saji/nf-tickets) | Scalp-proof ticketing with compressed NFTs | Next.js, Metaplex Core, Solana |
+| [NF-Tickets](https://github.com/Allen-Saji/nf-tickets) | Scalp-proof ticketing with compressed NFTs | Next.js, Metaplex, Solana |
 | [Token Swap Escrow](https://github.com/Allen-Saji/Token-Swap-Escrow) | Trustless escrow-based token swap platform with Blinks | Next.js, Anchor, Solana |
 | [Sui Lotto](https://github.com/Allen-Saji/sui-lotto-contract) | On-chain lottery on Sui | Move, Sui |
 
