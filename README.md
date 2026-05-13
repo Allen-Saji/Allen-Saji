@@ -19,6 +19,7 @@ rust · typescript · solana · evm · agent infra
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Talos](https://github.com/Allen-Saji/talos) | Self-hosted vertical Ethereum agent -- daemon + thin clients, curated DeFi tools, local wallet, nightly ecosystem knowledge cron | TypeScript, Ethereum, viem, MCP |
 | [px402](https://github.com/Allen-Saji/px402) | Private x402 payments for agent APIs on Solana -- recipient identity hidden via MagicBlock Private Ephemeral Rollups | TypeScript, Solana, MagicBlock, x402 |
 | [Docket](https://github.com/Allen-Saji/docket) | Three specialist agents debate every rebalance on Base, every agent call is a paid x402 request | TypeScript, Base, x402 |
 | [AgentLance](https://github.com/Allen-Saji/agentlance) | Talent network for specialized AI agents | Next.js, Anchor, A2A Protocol |
