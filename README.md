@@ -65,20 +65,4 @@ rust · typescript · solana · evm · agent infra
 |---------|-------------|------|
 | [ZKPass](https://github.com/Allen-Saji/zkpass) | ZK identity passport -- multi-attribute selective disclosure | Circom, Groth16, HashKey Chain |
 
-### other things
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Wander AI](https://github.com/Allen-Saji/wander-ai) | Conversational AI trip planner with rich itineraries | Next.js, TypeScript |
-| [Wallet Provider](https://github.com/Allen-Saji/wallet-provider) | HD wallet provider -- send/receive ETH & SOL, Google auth | Next.js, TypeScript |
-| [FlowDesk](https://github.com/Allen-Saji/flowdesk) | Desktop productivity app | Svelte |
-
 ---
-
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Allen-Saji&theme=transparent&hide_border=true&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
-</a>
-
-</div>
