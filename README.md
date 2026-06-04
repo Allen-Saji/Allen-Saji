@@ -81,8 +81,4 @@ rust · typescript · solana · evm · agent infra
   <img src="https://streak-stats.demolab.com?user=Allen-Saji&theme=transparent&hide_border=true&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
 </a>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Allen-Saji&bg_color=00000000&color=c9d1d9&line=c9d1d9&point=c9d1d9&area=true&area_color=c9d1d9&hide_border=true" />
-
 </div>
