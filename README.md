@@ -8,6 +8,7 @@ rust · typescript · solana · evm · agent infra
 
 | Role | Company | Work | Stack |
 |------|---------|------|-------|
+| Senior Protocol Engineer | **Heres Protocol** | Privacy-preserving on-chain inheritance / dead-man's-switch on Solana + MagicBlock ER. End-to-end protocol engineering -- smart contracts, backend, autonomous crank system, security audits, Next.js infra | Rust, Anchor, MagicBlock, TypeScript, Next.js, Solana |
 | Protocol Engineer | **PirateCrew.Fun** | Shared NFT ownership, staking rewards, claim-based airdrop (<$1 for n accounts), time-weighted perma-lock staking | Rust, Anchor, Metaplex |
 | Frontend Engineer | **Reafino** | Cardano crowdfunding & RWA tokenization platform | Next.js, TypeScript, Firebase |
 | Frontend Engineer | **Ekarth Ventures** | P2P invoice discounting platform with secondary market for investors | Next.js, TypeScript |
