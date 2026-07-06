@@ -20,7 +20,7 @@ rust · typescript · solana · evm · agent infra
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [EverDesk](https://github.com/Allen-Saji/everdesk) | Customer support agent that never forgets a customer -- per-customer memory graphs, resolutions become playbooks, webhook actions mid-chat, provable right-to-be-forgotten | Next.js, Cognee Cloud, Groq |
+| [EverDesk](https://github.com/Allen-Saji/everdesk) | Customer support agent that never forgets a customer -- per-customer memory graphs, resolutions become playbooks, webhook actions mid-chat, provable right-to-be-forgotten | Next.js, typescript, Cognee Cloud |
 | [Praxis](https://github.com/Allen-Saji/praxis) | Security, simulation, and audit layer between AI agents and their wallets on Sui -- simulate before you sign, explain after you spend | TypeScript, Sui, Walrus, Seal, Move |
 | [Talos](https://github.com/Allen-Saji/talos) | Self-hosted vertical Ethereum agent -- daemon + thin clients, curated DeFi tools, local wallet, nightly ecosystem knowledge cron | TypeScript, Ethereum, viem, MCP |
 | [px402](https://github.com/Allen-Saji/px402) | Private x402 payments for agent APIs on Solana -- recipient identity hidden via MagicBlock Private Ephemeral Rollups | TypeScript, Solana, MagicBlock, x402 |
