@@ -8,7 +8,7 @@ rust · typescript · solana · evm · agent infra
 
 | Role | Company | Work | Stack |
 |------|---------|------|-------|
-| Co-founder & CTO | **[Arcadia](https://www.arcadias.dev)** | Technical leadership across non-custodial vaults, performance scoring, execution infrastructure, and the investor/trader terminal | Rust, Anchor, Solana, React, TypeScript |
+| Co-founder & CTO | **Arcadia** | Technical leadership across non-custodial vaults, performance scoring, execution infrastructure, and the investor/trader terminal | Rust, Anchor, Solana, React, TypeScript |
 | Lead Smart Contract Engineer | **Heres Protocol** | End-to-end protocol engineering -- smart contracts, backend, autonomous crank system, audits and integrations | Rust, Anchor, MagicBlock, TypeScript |
 | Lead Smart Contract Engineer | **PirateCrew.Fun** | Shared NFT ownership, staking rewards, claim-based airdrop (<$1 for n accounts), time-weighted perma-lock staking | Rust, Anchor, Metaplex |
 | Frontend Engineer | **Reafino** | Cardano crowdfunding & RWA tokenization platform | Next.js, TypeScript, Firebase |
